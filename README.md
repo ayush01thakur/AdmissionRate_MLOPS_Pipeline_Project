@@ -1,4 +1,4 @@
-# AdmissionRate_MLOPS_Pipeline_Project
+# MLOPS Training Model Pipeline Using ZenMl
 
 **Problem Statement / Goal for this project:** This project aims to build a pipeline for the machine learning model. This is the basic pipeline built with the production-level code. I have utilized abstraction methods and object-oriented programming to build a proper pipeline for the admission rate calculation/ prediction based on several other features like GRE scores, university ranking, GPA, etc. The major aim is to learn how to create a pipeline for machine learning projects. In this project I have used the ZenMl to create the pipeline.
 
