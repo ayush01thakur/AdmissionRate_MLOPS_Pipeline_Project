@@ -22,9 +22,9 @@ Project Requirements Used:
 * python libraries: zenml, sklearn, abc, pandas, and numpy
 
 Instructions to run the Project (Training Pipeline):
-* run the run_pipeline.py file after installing and setting up all the libraries in a virtual environment.
+* run the `run_pipeline.py` file after installing and setting up all the libraries in a virtual environment.
 * After running the run_pipeline.py type `zenml up` in `cmd`. If you got an error then try executing `zenml up --blocking` command.
-* You then will get the link for the ZenMl dashboard. something like (`http://127.0.0.1:8890 `)
+* You then will get the link for the ZenMl dashboard. something like (`http://127.0.0.1:8235`)
 * Enter the login id as `default` and log in without any password. This will lead you to the dashboard.
 * Now click on the pipelines tab to see your pipeline.
 
